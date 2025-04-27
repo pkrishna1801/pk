@@ -1,7 +1,9 @@
 ---
-name: The Fabulous
-tools: [Android, Material Design]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
-external_url: https://thefabulous.co/
+name: Text Generator
+tools: [RNN, CBOW Embedding, TensorFlow]
+image: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1qFAn9.img?w=768&h=339&m=6
+description:
+    Built RNN-based text generation model for Kannada language
+    Trained custom CBOW embeddings for improved word representation
+external_url: 
 ---
