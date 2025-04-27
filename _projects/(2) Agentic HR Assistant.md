@@ -1,11 +1,11 @@
 ---
 name: Agentic HR Assistant
 tools: [LangGraph, GPT-4o, Streamlit]
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuC3P6Rz3HwKDX_oxqclx9vMalJ9m-snp4cQ&s
+image: https://apmonitor.com/dde/uploads/Main/rag_llm_integration.png
 description:
     Built AI-powered HR assistant with contextual conversation and step-by-step reasoning
     Created workflow system with context memory for automated hiring task management
-external_url: https://github.com/pkrishna1801/Agentic-HR-Assistant
+external_url: https://github.com/pkrishna1801/hr_helper
 ---
 
 <!-- # The Movies Project

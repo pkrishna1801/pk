@@ -4,7 +4,6 @@ tools: [VIT, GPT-2]
 image: https://user-images.githubusercontent.com/6074821/113487044-098b1280-94b6-11eb-93b0-f2bf3202010f.png
 description:
     Designed and fine-tuned a ViT-GPT2 hybrid model to generate textual chest X-ray reports from medical images.
-    Automated training loops, validation checkpoints, and loss monitoring to ensure robust model optimization
 external_url: https://github.com/pkrishna1801/Image2Text
 ---
 
