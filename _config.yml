@@ -1,12 +1,12 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Prarthana Krishnamurthy
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
+baseurl             : "/pkrishna.github.io"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : pkrishna1801/pkrishna.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : yousinix/portfolYOU@v1.0.0
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -31,7 +31,7 @@ author:
 # dribbble          : your_username
   email             : krishnamurthy.p@northeastern.edu
   # facebook          : your_username
-  github            : your_username
+  github            : https://github.com/pkrishna1801
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -58,6 +58,10 @@ collections:
     output: true
     permalink: /projects/:name
 
+name: Awesome Project
+tools: [Tool1, Tool2]
+image: image url or path here.
+description: Write project description here.
 
 
 ### Disqus ###
