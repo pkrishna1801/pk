@@ -6,7 +6,5 @@ description:
     Developed an end-to-end Retrieval-Augmented Generation (RAG) Web Application using Mistral-7B, integrating
     BM25 (lexical search) and FAISS based dense retrieval (MiniLM-L6-v2 embeddings) to enhance scientific
     document search and response generation
-    Indexed 10,000+ scientific documents in FAISS, enabling fast, high-accuracy semantic search and improving the
-    factual accuracy of generated responses
 external_url: https://github.com/pkrishna1801/RAG-Web-Application
 ---
