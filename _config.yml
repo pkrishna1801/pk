@@ -25,12 +25,12 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Prarthana Krishnamurthy
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  behance           : Prarthana Krishnamurthy
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
+  email             : krishnamurthy.p@northeastern.edu
+  # facebook          : your_username
   github            : your_username
 # gitlab            : your_username
 # instagram         : your_username
