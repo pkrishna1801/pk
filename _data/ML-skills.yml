@@ -10,25 +10,9 @@
   percentage: 85
   color: warning
 
-- name: Graph Neural Networks
-  percentage: 90
-  color: info
-
-- name: Diffusion Models
-  percentage: 85
-  color: success
-
 - name: LangGraph/LangChain
   percentage: 80
   color: dark
-
-- name: Computer Vision
-  percentage: 85
-  color: primary
-
-- name: MLOps (MLflow, DVC)
-  percentage: 80
-  color: warning
 
 - name: NLP/LLMs
   percentage: 85

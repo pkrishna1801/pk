@@ -1,7 +1,27 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: MLOps (MLflow, DVC)
+  percentage: 80
+  color: warning
 
-- name: Adobe Illustrator
+- name: Cloud (AWS, Azure)
+  percentage: 80
+  color: success
+
+- name: Git
   percentage: 90
+  color: success
+
+- name: Docker
+  percentage: 80
+  color: success  
+
+- name: Kubernetes  
+  percentage: 70
+  color: secondary  
+
+- name: Streamlit
+  percentage: 80
+  color: success
+
+- name: FastAPI
+  percentage: 80
   color: success
