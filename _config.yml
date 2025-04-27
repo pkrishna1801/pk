@@ -58,10 +58,7 @@ collections:
     output: true
     permalink: /projects/:name
 
-name: Awesome Project
-tools: [Tool1, Tool2]
-image: image url or path here.
-description: Write project description here.
+
 
 
 ### Disqus ###
