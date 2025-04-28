@@ -4,10 +4,10 @@ tags: [Version Control]
 style: fill
 color: secondary
 comments: true
-description: Benefits of version control and version control systems.
+description: diffusion Model:DDPM
 ---
 
-Source: [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+<!-- Source: [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 ![](https://wac-cdn.atlassian.com/dam/jcr:34e935dd-3108-40ef-bb3d-9ed01d977d6d/hero.svg?cdnVersion=la)
 
@@ -41,4 +41,4 @@ Version Control Systems (VCS) have seen great improvements over the past few dec
 
 While it is possible to develop software without using any version control, doing so subjects the project to a huge risk that no professional team would be advised to accept. So the question is not whether to use version control but which version control system to use.
 
-There are many choices, but here we are going to focus on just one, Git.
+There are many choices, but here we are going to focus on just one, Git. -->
