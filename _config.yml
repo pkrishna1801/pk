@@ -6,7 +6,7 @@ description         : >-
                       and never broke production.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : pkrishna1801  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : pkrishna1801
+remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
