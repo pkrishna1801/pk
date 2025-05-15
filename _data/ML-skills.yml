@@ -2,6 +2,10 @@
   percentage: 95
   color: primary
 
+- name: NLP/LLMs
+  percentage: 95
+  color: danger
+  
 - name: TensorFlow/Keras
   percentage: 90
   color: danger
@@ -13,10 +17,6 @@
 - name: LangGraph/LangChain
   percentage: 80
   color: dark
-
-- name: NLP/LLMs
-  percentage: 85
-  color: danger
 
 - name: CUDA/Parallel Computing
   percentage: 75
